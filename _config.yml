@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 theme: minimal-mistakes-jekyll
 # Site Settings
-locale                   : "en"
+locale                   : "zh-CH"
 title                    : "generalzh blog"
 title_separator          : "-"
 name                     : "generalz"
